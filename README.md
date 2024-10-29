@@ -11,8 +11,6 @@ A predictive model built with Machine Learning to assess credit risk. This Strea
 - [Usage](#usage)
 - [Model and Data](#model-and-data)
 - [Technologies Used](#technologies-used)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
@@ -46,3 +44,22 @@ Check out the live app here: [Credit Risk Model on Streamlit](https://esheta-cre
    ```bash
    git clone https://github.com/yourusername/credit-risk-model.git
    cd credit-risk-model
+
+  ### Usage
+  Credit risk modeling assesses the likelihood of a borrower defaulting on loans. It uses historical data and statistical methods to evaluate borrower creditworthiness. Effective usage includes determining loan terms, setting interest rates, and minimizing risk exposure for lenders. Models provide insights for decision-making and help financial institutions identify high-risk customers, enabling them to tailor products and strategies accordingly. Continuous improvements and adjustments based on new data ensure models remain relevant and accurate in predicting credit risk.
+
+### Model and Data
+![image](https://github.com/user-attachments/assets/050aaf50-0044-469e-af69-b5ca7bfd57f8)
+
+## Technologies Used
+- **Python**: For backend development.
+- **Streamlit**: For building the user interface.
+- **Pandas**: For data manipulation and analysis.
+- **Scikit-learn**: For machine learning algorithms.
+- **Matplotlib/Seaborn**: For data visualization.
+
+## License
+This project is licensed under the MIT License.
+
+
+
