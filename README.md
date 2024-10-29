@@ -30,7 +30,8 @@ The Credit Risk Model uses machine learning algorithms to predict the likelihood
 
 Check out the live app here: [Credit Risk Model on Streamlit](https://esheta-credit-risk-model.streamlit.app/)
 
-![App Screenshot](link-to-your-screenshot.png)  <!-- Replace with an actual link to a screenshot if available -->
+![image](https://github.com/user-attachments/assets/2ade19ad-4ead-4397-a3ab-1cb75e6eba0d)
+ <!-- Replace with an actual link to a screenshot if available -->
 
 ## Getting Started
 
